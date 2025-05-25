@@ -749,14 +749,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 
-### 👨‍💻 **Project Lead**
-
-**Yepuri Manish**
-🎓 *AI/ML Researcher & Urban Planning Enthusiast*
-
-[![Email](https://img.shields.io/badge/Email-manishchowdary2006@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:manishchowdary2006@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-manish12ys-black?style=for-the-badge&logo=github)](https://github.com/manish12ys)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-manish-yepuri-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manish-yepuri-471940281/)
 
 ### 💬 **Get Help**
 
