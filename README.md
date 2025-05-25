@@ -773,17 +773,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 </div>
 
----
-
-## 💬 **Get Help**
-
-<div align="center">
-
-[![Issues](https://img.shields.io/badge/🐛%20Report%20Issues-GitHub%20Issues-red?style=for-the-badge)](https://github.com/manish12ys/Neuro-Urban/issues)
-[![Discussions](https://img.shields.io/badge/💬%20Join%20Discussions-GitHub%20Discussions-blue?style=for-the-badge)](https://github.com/manish12ys/Neuro-Urban/discussions)
-[![Documentation](https://img.shields.io/badge/📖%20Read%20Docs-Project%20Wiki-green?style=for-the-badge)](https://github.com/manish12ys/Neuro-Urban/blob/main/README.md)
-
-</div>
 
 ---
 
