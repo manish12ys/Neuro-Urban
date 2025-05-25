@@ -768,17 +768,56 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
+## 👨‍💻 **Project Lead**
+
 <div align="center">
 
-**🏙️ Built with ❤️ for sustainable urban development 🌱**
+### **Yepuri Manish** 🎓
+**AI/ML Researcher & Urban Planning Enthusiast**
 
-*"The future of cities is not just about technology, but about creating spaces where humanity and nature thrive together."*
-
-[![Star this repo](https://img.shields.io/github/stars/manishys12/neurourban?style=social)](https://github.com/manish12ys/Neuro-Urban)
-[![Follow on GitHub](https://img.shields.io/github/followers/manishys12?style=social)](https://github.com/manish12ys)
+[![Email](https://img.shields.io/badge/Email-manishchowdary2006%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishchowdary2006@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-manish12ys-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manish12ys)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-yepuri)
 
 </div>
 
+---
 
+## 💬 **Get Help**
 
+<div align="center">
 
+[![Issues](https://img.shields.io/badge/🐛%20Report%20Issues-GitHub%20Issues-red?style=for-the-badge)](https://github.com/manish12ys/Neuro-Urban/issues)
+[![Discussions](https://img.shields.io/badge/💬%20Join%20Discussions-GitHub%20Discussions-blue?style=for-the-badge)](https://github.com/manish12ys/Neuro-Urban/discussions)
+[![Documentation](https://img.shields.io/badge/📖%20Read%20Docs-Project%20Wiki-green?style=for-the-badge)](https://github.com/manish12ys/Neuro-Urban/blob/main/README.md)
+
+</div>
+
+---
+
+## 🌟 **Show Your Support**
+
+<div align="center">
+
+If you find NeuroUrban helpful for your research or projects, please consider:
+
+[![Star this repo](https://img.shields.io/badge/⭐%20Star%20this%20repo-GitHub-yellow?style=for-the-badge&logo=github)](https://github.com/manish12ys/Neuro-Urban)
+[![Follow on GitHub](https://img.shields.io/badge/👤%20Follow%20on%20GitHub-manish12ys-black?style=for-the-badge&logo=github)](https://github.com/manish12ys)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏙️ **Built with ❤️ for sustainable urban development** 🌱
+
+*"The future of cities is not just about technology, but about creating spaces where humanity and nature thrive together."*
+
+**NeuroUrban - Designing the cities of tomorrow using AI and data science**
+
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)](https://github.com/manish12ys/Neuro-Urban)
+[![For Sustainability](https://img.shields.io/badge/For-🌱%20Sustainability-green?style=flat-square)](https://github.com/manish12ys/Neuro-Urban)
+[![AI Powered](https://img.shields.io/badge/AI-🤖%20Powered-blue?style=flat-square)](https://github.com/manish12ys/Neuro-Urban)
+
+</div>
