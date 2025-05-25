@@ -818,6 +818,6 @@ If you find NeuroUrban helpful for your research or projects, please consider:
 
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)](https://github.com/manish12ys/Neuro-Urban)
 [![For Sustainability](https://img.shields.io/badge/For-🌱%20Sustainability-green?style=flat-square)](https://github.com/manish12ys/Neuro-Urban)
-[![AI Powered](https://img.shields.io/badge/AI-🤖%20Powered-blue?style=flat-square)](https://github.com/manish12ys/Neuro-Urban)
+
 
 </div>
