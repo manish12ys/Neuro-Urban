@@ -754,9 +754,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **Yepuri Manish**
 🎓 *AI/ML Researcher & Urban Planning Enthusiast*
 
-[![Email](https://img.shields.io/badge/Email-2303031241418%40paruluniversity.ac.in-red?style=for-the-badge&logo=gmail)](mailto:2303031241418@paruluniversity.ac.in)
-[![GitHub](https://img.shields.io/badge/GitHub-manishys12-black?style=for-the-badge&logo=github)](https://github.com/manishys12)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/manishys12)
+[![Email](https://img.shields.io/badge/Email-2303031241418%40paruluniversity.ac.in-red?style=for-the-badge&logo=gmail)](mailto:manishchowdary2006@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-manishys12-black?style=for-the-badge&logo=github)](https://github.com/manish12ys)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manish-yepuri-471940281/)
 
 ### 💬 **Get Help**
 
@@ -774,8 +774,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 *"The future of cities is not just about technology, but about creating spaces where humanity and nature thrive together."*
 
-[![Star this repo](https://img.shields.io/github/stars/manishys12/neurourban?style=social)](https://github.com/manishys12/neurourban)
-[![Follow on GitHub](https://img.shields.io/github/followers/manishys12?style=social)](https://github.com/manishys12)
+[![Star this repo](https://img.shields.io/github/stars/manishys12/neurourban?style=social)](https://github.com/manish12ys/Neuro-Urban)
+[![Follow on GitHub](https://img.shields.io/github/followers/manishys12?style=social)](https://github.com/manish12ys)
 
 </div>
 
