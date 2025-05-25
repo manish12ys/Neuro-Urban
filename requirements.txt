@@ -1,6 +1,6 @@
 
 # Core ML/DL Libraries
-torch>=1.13.0,<2.1.0
+torch
 torchvision>=0.14.0,<0.16.0
 
 # GPU-accelerated ML Libraries (optional)
