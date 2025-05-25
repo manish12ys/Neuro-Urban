@@ -2,12 +2,12 @@
 
 <div align="center">
 
-![NeuroUrban Logo](https://img.shields.io/badge/NeuroUrban-AI%20City%20Planner-blue?style=for-the-badge&logo=city&logoColor=white)
+![NeuroUrban Logo](https://img.shields.io/badge/🏙️%20NeuroUrban-AI%20City%20Planner-blue?style=for-the-badge)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)](https://python.org)
 [![Plotly](https://img.shields.io/badge/Plotly-3.0%2B-red?style=flat-square&logo=plotly)](https://plotly.com)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.25%2B-green?style=flat-square&logo=streamlit)](https://streamlit.io)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
-[![GPU](https://img.shields.io/badge/GPU-Accelerated-brightgreen?style=flat-square&logo=nvidia)](https://developer.nvidia.com/cuda-zone)
+[![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=flat-square)]()
 
 **🌟 Designing the cities of tomorrow using Machine Learning and Deep Learning 🌟**
 
@@ -93,14 +93,14 @@ NeuroUrban revolutionizes urban planning by leveraging artificial intelligence t
 <div align="center">
 
 ### **🧠 Machine Learning & Deep Learning**
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 [![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 
-### **⚡ GPU Acceleration**
-[![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-zone)
-[![CuPy](https://img.shields.io/badge/CuPy-FF6B35?style=for-the-badge&logo=python&logoColor=white)](https://cupy.dev)
+### **📊 Data & Analytics**
+[![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge&logo=python&logoColor=white)](https://docs.python-requests.org)
+[![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org)
 
 ### **🌐 Web & Visualization**
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
@@ -108,7 +108,7 @@ NeuroUrban revolutionizes urban planning by leveraging artificial intelligence t
 
 ### **🗺️ Geospatial & Data**
 [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)](https://opencv.org)
-[![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=folium&logoColor=white)](https://python-visualization.github.io/folium)
+[![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=leaflet&logoColor=white)](https://python-visualization.github.io/folium)
 
 </div>
 
@@ -116,9 +116,9 @@ NeuroUrban revolutionizes urban planning by leveraging artificial intelligence t
 
 | Category | Technologies | Purpose |
 |----------|-------------|---------|
-| **🧠 Core ML/DL** | PyTorch, Scikit-learn, NumPy, Pandas | Model training, data processing |
-| **⚡ GPU Computing** | CuPy, cuML (optional), CUDA | High-performance computing |
-| **🎮 Reinforcement Learning** | Stable-Baselines3, Gym | City simulation and optimization |
+| **🧠 Core ML/DL** | Scikit-learn, NumPy, Pandas, Matplotlib | Model training, data processing, visualization |
+| **📊 Data Processing** | Requests, JSON, CSV processing | API integration and data handling |
+| **🎮 Simulation** | NumPy-based algorithms | City simulation and optimization |
 | **🌐 Web Interface** | Streamlit, Plotly, Matplotlib | Interactive dashboard and visualization |
 | **🗺️ Geospatial** | Folium, GeoPandas, OSMnx | Map processing and spatial analysis |
 | **🔍 Computer Vision** | OpenCV, Pillow | Image processing and blueprint generation |
