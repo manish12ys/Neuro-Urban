@@ -1,0 +1,63 @@
+
+# Core ML/DL Libraries
+torch>=1.13.0,<2.1.0
+torchvision>=0.14.0,<0.16.0
+
+# GPU-accelerated ML Libraries (optional)
+cupy-cuda11x>=11.0.0  # For CUDA 11.x (detected CUDA 11.1)
+# cuml>=23.10.0  # RAPIDS cuML - install via conda: conda install -c rapidsai cuml
+
+scikit-learn>=1.3.0
+numpy>=1.24.0,<1.26.0
+pandas>=2.0.0
+
+# Deep Learning & AI
+transformers>=4.30.0
+huggingface-hub>=0.16.0
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# Geospatial & Mapping
+folium>=0.14.0
+geopandas>=0.13.0
+osmnx>=1.5.0
+rasterio>=1.3.0
+shapely>=2.0.0
+
+# Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+streamlit>=1.25.0,<1.29.0
+streamlit-folium>=0.13.0
+
+# Web Scraping & APIs
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+selenium>=4.10.0
+aiohttp>=3.8.0
+
+# Real-world Data APIs (Q2 2024 Enhancement)
+wbdata>=0.3.0  # World Bank Open Data API
+overpy>=0.6  # OpenStreetMap Overpass API
+openweathermap>=0.1.0  # Weather and environmental data
+python-dotenv>=1.0.0  # Environment variables for API keys
+
+# Simulation & RL
+gym>=0.26.0
+stable-baselines3>=2.0.0
+simpy>=4.0.0
+
+# Utilities
+tqdm>=4.65.0
+python-dotenv>=1.0.0
+pyyaml>=6.0
+click>=8.1.0
+rich>=13.4.0
+joblib>=1.3.0
+
+# Development
+pytest>=7.4.0
+black>=23.7.0
+flake8>=6.0.0
+jupyter>=1.0.0

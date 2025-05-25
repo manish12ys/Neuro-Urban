@@ -1,0 +1,166 @@
+# NeuroUrban Configuration File
+
+# Application Settings
+app:
+  debug: false
+  log_level: "INFO"
+  port: 8501
+  host: "localhost"
+  theme: "dark"
+  page_title: "NeuroUrban: AI City Planner"
+  page_icon: "🏙️"
+
+# Data Configuration
+data:
+  raw_data_dir: "data/raw"
+  processed_data_dir: "data/processed"
+  models_dir: "models"
+  output_dir: "output"
+  
+  # Target cities for analysis
+  target_cities:
+    - "Tokyo"
+    - "Singapore"
+    - "Zurich"
+    - "Copenhagen"
+    - "Amsterdam"
+    - "Vienna"
+    - "Munich"
+    - "Vancouver"
+    - "Toronto"
+    - "Melbourne"
+    - "Sydney"
+    - "Stockholm"
+    - "Helsinki"
+    - "Oslo"
+    - "Barcelona"
+    - "Paris"
+    - "London"
+    - "Berlin"
+    - "Seoul"
+    - "Hong Kong"
+  
+  # Data sources
+  data_sources:
+    openstreetmap: "https://overpass-api.de/api/interpreter"
+    world_bank: "https://api.worldbank.org/v2/"
+    numbeo: "https://www.numbeo.com/api/"
+    satellite: "google_earth_engine"
+
+# Model Configuration
+model:
+  # CNN Configuration
+  cnn_input_size: [256, 256, 3]
+  cnn_batch_size: 32
+  cnn_epochs: 100
+  
+  # GAN Configuration
+  gan_latent_dim: 100
+  gan_image_size: 256
+  gan_batch_size: 16
+  gan_epochs: 200
+  
+  # Transformer Configuration
+  transformer_model: "bert-base-uncased"
+  max_sequence_length: 512
+  
+  # RL Configuration
+  rl_algorithm: "PPO"
+  rl_episodes: 1000
+  rl_learning_rate: 0.0003
+
+# Feature Categories for Analysis
+feature_categories:
+  infrastructure:
+    - "internet_speed_mbps"
+    - "electricity_reliability"
+    - "water_quality_index"
+    - "waste_management_efficiency"
+    - "public_wifi_coverage"
+    - "smart_city_index"
+  
+  environment:
+    - "air_quality_index"
+    - "green_space_percentage"
+    - "carbon_emissions_per_capita"
+    - "renewable_energy_percentage"
+    - "water_consumption_per_capita"
+    - "noise_pollution_level"
+  
+  transportation:
+    - "public_transport_coverage"
+    - "traffic_congestion_index"
+    - "cycling_infrastructure_score"
+    - "walkability_score"
+    - "electric_vehicle_adoption"
+    - "average_commute_time"
+  
+  economy:
+    - "gdp_per_capita"
+    - "cost_of_living_index"
+    - "unemployment_rate"
+    - "business_environment_score"
+    - "innovation_index"
+    - "startup_density"
+  
+  quality_of_life:
+    - "livability_index"
+    - "happiness_index"
+    - "cultural_diversity_score"
+    - "recreational_facilities_score"
+    - "housing_affordability"
+    - "work_life_balance_score"
+
+# Simulation Parameters
+simulation:
+  default_city_config:
+    population: 1000000
+    area_km2: 500
+    gdp_per_capita: 50000
+  
+  environment_params:
+    max_steps: 365  # One year simulation
+    action_space_dim: 5
+    state_space_dim: 13
+  
+  reward_weights:
+    sustainability: 0.4
+    livability: 0.4
+    economic_health: 0.2
+
+# Blueprint Generation
+blueprint:
+  zone_types:
+    residential:
+      color: [0, 150, 0]  # Green
+      min_percentage: 30
+      max_percentage: 60
+    
+    commercial:
+      color: [0, 0, 150]  # Blue
+      min_percentage: 10
+      max_percentage: 30
+    
+    industrial:
+      color: [150, 0, 0]  # Red
+      min_percentage: 5
+      max_percentage: 20
+    
+    green_space:
+      color: [100, 200, 100]  # Light Green
+      min_percentage: 15
+      max_percentage: 40
+    
+    transportation:
+      color: [100, 100, 100]  # Gray
+      min_percentage: 5
+      max_percentage: 15
+
+# Logging Configuration
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  date_format: "%Y-%m-%d %H:%M:%S"
+  file_rotation: true
+  max_file_size: "10MB"
+  backup_count: 5
